@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner]()
+![Banner](https://github.com/HelixCipher/HelixCipher/blob/main/assets/banner.gif)
 
 <!-- ============================= -->
 <!--          INTRODUCTION         -->

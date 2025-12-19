@@ -62,7 +62,7 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ### A bit more about me
 - 🌱 Currently deepening my knowledge in **cybersecurity** and open to roles in this space  
-- 👯 Open to collaborating on **AI or cybersecurity projects** — discussions and joint work welcome
+- 👯 Open to collaborating on **AI and cybersecurity projects** — discussions and joint work welcome
 
 ### 📫 Contact
 

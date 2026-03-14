@@ -54,26 +54,6 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
-- **Digit Recognition**
-
-<p align="center">
-  <img src="https://github.com/HelixCipher/digit-recognition/blob/main/Project_Demonstration_GIF.gif" width="800" alt="Digit Recognition"/>
-</p>
-
-### [Digit Recognition](https://github.com/HelixCipher/digit-recognition/edit/main/README.md)
-_A Streamlit web application for recognizing handwritten digits (0-9) using a Convolutional Neural Network (CNN) trained on the MNIST dataset._
-
-Features:
-- **Draw Mode**: Draw a digit directly on the canvas.
-- **Upload Mode**: Upload an image of a handwritten digit.
-- **Real-time Prediction**: See prediction results instantly.
-
-  Try it out &rarr; [![Here](https://img.shields.io/badge/Here%20-%20green?style=plastic
-)](https://digit-r.streamlit.app/)
-
-
----
-
 - **Digiti Signum**
 
 <p align="center">

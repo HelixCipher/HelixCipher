@@ -16,7 +16,7 @@
 
 ## About me
 
-I’m a **Data Scientist** specializing in **Artificial Intelligence (AI)** and **Cybersecurity**. I build **production-ready AI systems** that are **secure, privacy-preserving, and designed for real-world impact** across multiple industries. I’ve worked with **public-sector authorities** on **GDPR-compliant AI**, privacy-preserving techniques, and secure handling of sensitive data, combining hands-on engineering with **regulatory and risk awareness**.
+I’m a **Data Scientist** specialized in **Artificial Intelligence (AI)** and **Cybersecurity**. I build **production-ready AI systems** that are **secure, privacy-preserving, and designed for real-world impact** across multiple industries. I’ve worked with **public-sector authorities** on **GDPR-compliant AI**, privacy-preserving techniques, and secure handling of sensitive data, combining hands-on engineering with **regulatory and risk awareness**.
 
 A core part of my work is **failure-mode thinking**: understanding how AI systems break through **data leakage, weak access controls, insecure integrations, or poorly governed pipelines**, and designing architectures that reduce those risks.
 

@@ -72,24 +72,6 @@ Features:
 
 ---
 
-
-- **Atlas**
-
-<p align="center">
-  <img src="https://github.com/HelixCipher/Atlas/blob/main/project_image.png" width="800" alt="Atlas"/>
-</p>
-
-### [Atlas](https://github.com/HelixCipher/Atlas/tree/main)
-_Atlas — Web-scraping toolkit for Swedish authorities. Automates data collection with pagination, PDF crawling, metadata extraction, and multi-format export._
-
- Features:  
-- Browser Automation - Handles JavaScript-rendered pages and cookie consent dialogs using Playwright
-- Pagination Support - Automatically navigates multi-page listings and "load more" buttons
-- PDF Crawler - Recursively finds and downloads PDF documents with section-based organization
-- Metadata Extraction - Captures document IDs (Serienummer, Diarienummer), dates, titles, and descriptions
-
----
-
 - **Project Jackheart**
 
 <p align="center">

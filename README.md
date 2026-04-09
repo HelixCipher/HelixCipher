@@ -54,13 +54,28 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
-- **Digiti Signum**
+### [Fine-Tuning An Local LLM for Web Scraping](https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping)
+
+<p align="center">
+  <img src="https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping/blob/main/project_image.png" width="800" alt="Fine-Tuning An Local LLM for Web Scraping"/>
+</p>
+
+_A guide to building a custom web scraping AI assistant by fine-tuning Qwen2.5-3B to extract structured JSON data from job postings._
+
+Features:
+- LoRA fine-tuning with Unsloth - Efficient 4-bit training on consumer GPU
+- End-to-end pipeline - From web scraping to HuggingFace deployment
+- Selenium & Playwright integration - Automated data collection
+
+
+---
+
+### [Digiti Signum](https://github.com/HelixCipher/digiti-signum)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HelixCipher/digiti-signum/main/project_image.png" width="800" alt="Digiti Signum"/>
 </p>
 
-### [Digiti Signum](https://github.com/HelixCipher/digiti-signum)
 _An scientific research project demonstrating fingerprint matching and alteration detection using both traditional computer vision and deep learning approaches. This project explores how biometric systems work behind the scenes to match fingerprints and detect alterations._
 
 Features:
@@ -72,13 +87,12 @@ Features:
 
 ---
 
-- **Project Jackheart**
+### [Project Jackheart](https://github.com/HelixCipher/project-jackheart/tree/main)
 
 <p align="center">
   <img src="https://github.com/HelixCipher/project-jackheart/blob/main/project_image.png" width="800" alt="Project Jackheart"/>
 </p>
 
-### [Project Jackheart](https://github.com/HelixCipher/project-jackheart/tree/main)
 _Project Jackheart is an educational project demonstrating byte-level file techniques: hiding data in JPEGs, embedding images inside images, building polyglot files, and header-level codec-aware MP3 steganography (private-bit embedding + AES-GCM). The notebooks emphasize secure, local experimentation, reproducibility, and OPSEC._
 
  Features:  

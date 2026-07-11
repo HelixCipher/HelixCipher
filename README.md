@@ -54,6 +54,24 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
+### [Mouse Jiggler — Bezier Curve Edition](https://github.com/HelixCipher/mouse-jiggler)
+
+<p align="center">
+  <img src="https://github.com/HelixCipher/mouse-jiggler/blob/main/assets/demo.gif" width="800" alt="Mouse Jiggler — Bezier Curve Edition"/>
+</p>
+
+_Cross-platform Bezier curve hardware mouse jiggler using an RP2350-One. Spoofs a USB optical mouse with human-like cursor movement._
+
+Features:
+- Bezier curve movement - Cubic paths with smoothstep easing mimic natural human cursor motion
+- USB HID spoofing - Presents as a PixArt optical mouse (VID/PID 093A:2510)
+- Cross-platform - Works on Windows, macOS, and Linux via USB HID standard
+
+
+
+
+---
+
 ### [Fine-Tuning An Local LLM for Web Scraping](https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping)
 
 <p align="center">

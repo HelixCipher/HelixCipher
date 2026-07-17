@@ -54,7 +54,7 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
-### [Canary Tokens](https://github.com/HelixCipher/canary-tokens/edit/main/README.md)
+### [Canary Tokens](https://github.com/HelixCipher/canary-tokens)
 
 <p align="Left">
   <img src="https://github.com/HelixCipher/canary-tokens/blob/main/assets/images/project_image.png" width="800" alt="Canary Tokens"/>

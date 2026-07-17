@@ -54,9 +54,25 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
+### [Canary Tokens](https://github.com/HelixCipher/canary-tokens/edit/main/README.md)
+
+<p align="Left">
+  <img src="https://github.com/HelixCipher/canary-tokens/blob/main/assets/images/project_image.png" width="800" alt="Canary Tokens"/>
+</p>
+
+
+_A hands-on exploration of canary token internals — how they work, how to deploy them, and how to detect them._
+
+Features:
+- **Web Image Tokens — Embed tracking pixels in documents and HTML to detect unauthorized access**
+- **Redirect Tokens — Create tripwires that log clicks before forwarding to legitimate pages**
+- **SQL Dump Tokens — Plant canary tokens in database files to detect unauthorized imports**
+
+---
+
 ### [Mouse Jiggler — Bezier Curve Edition](https://github.com/HelixCipher/mouse-jiggler)
 
-<p align="center">
+<p align="Left">
   <img src="https://github.com/HelixCipher/mouse-jiggler/blob/main/assets/demo.gif" width="800" alt="Mouse Jiggler — Bezier Curve Edition"/>
 </p>
 
@@ -74,7 +90,7 @@ Features:
 
 ### [Fine-Tuning An Local LLM for Web Scraping](https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping)
 
-<p align="center">
+<p align="Left">
   <img src="https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping/blob/main/project_image.png" width="800" alt="Fine-Tuning An Local LLM for Web Scraping"/>
 </p>
 
@@ -90,7 +106,7 @@ Features:
 
 ### [Digiti Signum](https://github.com/HelixCipher/digiti-signum)
 
-<p align="center">
+<p align="Left">
   <img src="https://raw.githubusercontent.com/HelixCipher/digiti-signum/main/project_image.png" width="800" alt="Digiti Signum"/>
 </p>
 
@@ -107,7 +123,7 @@ Features:
 
 ### [Project Jackheart](https://github.com/HelixCipher/project-jackheart/tree/main)
 
-<p align="center">
+<p align="Left">
   <img src="https://github.com/HelixCipher/project-jackheart/blob/main/project_image.png" width="800" alt="Project Jackheart"/>
 </p>
 
@@ -134,7 +150,7 @@ _Project Jackheart is an educational project demonstrating byte-level file techn
 
 **Note**: since this is a WIP, it may not be accessible at all times.
 
-<p align="center">
+<p align="Left">
   <img src="https://github.com/HelixCipher/HelixCipher/blob/main/assets/project-foresight-wip.gif" width="800" alt="Work in progress - project-foresight"/>
 </p>
 

@@ -54,6 +54,24 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
+### [Canary Tokens](https://github.com/HelixCipher/canary-tokens)
+
+<p align="Left">
+  <img src="https://github.com/HelixCipher/canary-tokens/blob/main/assets/images/project_image.png" width="800" alt="project_image"/>
+</p>
+
+
+_A hands-on exploration of canary token internals — how they work, how to deploy them, and how to detect them._
+
+Features:
+- **Web Bug Tokens — Deploy headless HTTP triggers disguised as text documents using VBScript or compiled executables**
+- **Web Image Tokens — Embed tracking pixels in documents and HTML to detect unauthorized access**
+- **Redirect Tokens — Create tripwires that log clicks before forwarding to legitimate pages**
+- **SQL Dump Tokens — Plant canary tokens in database files to detect unauthorized imports**
+
+
+---
+
 ### [Image To Code](https://github.com/HelixCipher/image-to-code)
 
 <p align="Left">
@@ -66,22 +84,6 @@ _Learn how to convert an image into Base64 text and embed it directly into Markd
 Features:
 - **Single Image Encoding — Convert an image to a Base64 data URI for inline Markdown display**
 - **Folder Gallery Generator — Batch embed an folder of images into a clean Markdown gallery**
-
----
-
-### [Canary Tokens](https://github.com/HelixCipher/canary-tokens)
-
-<p align="Left">
-  <img src="https://github.com/HelixCipher/canary-tokens/blob/main/assets/images/project_image.png" width="800" alt="project_image"/>
-</p>
-
-
-_A hands-on exploration of canary token internals — how they work, how to deploy them, and how to detect them._
-
-Features:
-- **Web Image Tokens — Embed tracking pixels in documents and HTML to detect unauthorized access**
-- **Redirect Tokens — Create tripwires that log clicks before forwarding to legitimate pages**
-- **SQL Dump Tokens — Plant canary tokens in database files to detect unauthorized imports**
 
 ---
 

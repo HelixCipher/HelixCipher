@@ -54,10 +54,25 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
+### [Image To Code](https://github.com/HelixCipher/image-to-code)
+
+<p align="Left">
+  <img src="https://github.com/HelixCipher/image-to-code/blob/main/assets/images/project_image.png" width="800" alt="project_image"/>
+</p>
+
+
+_Learn how to convert an image into Base64 text and embed it directly into Markdown._
+
+Features:
+- **Single Image Encoding — Convert an image to a Base64 data URI for inline Markdown display**
+- **Folder Gallery Generator — Batch embed an folder of images into a clean Markdown gallery**
+
+---
+
 ### [Canary Tokens](https://github.com/HelixCipher/canary-tokens)
 
 <p align="Left">
-  <img src="https://github.com/HelixCipher/canary-tokens/blob/main/assets/images/project_image.png" width="800" alt="Canary Tokens"/>
+  <img src="https://github.com/HelixCipher/canary-tokens/blob/main/assets/images/project_image.png" width="800" alt="project_image"/>
 </p>
 
 

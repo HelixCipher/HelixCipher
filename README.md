@@ -54,6 +54,34 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
+### [Defense Evasion](https://github.com/HelixCipher/defense-evasion)
+
+<p align="Left">
+  <img src="https://github.com/HelixCipher/defense-evasion/blob/main/assets/images/project_image.png" width="800" alt="project_image"/>
+</p>
+
+
+_Educational reference for defense evasion techniques within the MITRE ATT&CK framework, covering filesystem manipulation, artifact concealment, and detection strategies._
+
+Features:
+- Unicode Directory Obfuscation — Create hidden directories and deceptive path structures using zero-width spaces, fractional slashes, and homoglyph characters
+- Visual Masquerading (RTLO) — Force file displays to show reversed extensions, making executables appear as documents
+- Timestomping — Modify file timestamps to blend malicious artifacts with legitimate system files
+- Alternate Data Streams (NTFS) — Hide payloads inside benign files without changing visible file size
+- Log Clearing — Remove command history to eliminate forensic trails
+- Sandbox Evasion — Detect analysis environments through CPU, uptime, and system fingerprinting
+- Self-Replicating Persistence — Demonstrate exponential file recreation upon deletion
+- Homoglyph Attacks — Spoof directory names using visually identical Unicode characters from different alphabets
+- IDN Homograph Attacks — Register look-alike domains using Punycode to bypass visual inspection
+- Shadow Files — Conceal files using Linux file descriptor retention, with a tool to shadow, hunt, restore, and kill
+- Fileless Execution — Execute binaries directly from RAM via `memfd_create` and `/dev/shm`
+- System Call Monitoring — Hook into `execve` via BPFtrace to capture real-time command execution
+- Shell Configuration Hijacking — Inject malicious functions into `.bashrc` to filter command output
+- Detection Rules — YARA rules and auditd configurations for identifying non-ASCII path masquerading
+
+
+---
+
 ### [Canary Tokens](https://github.com/HelixCipher/canary-tokens)
 
 <p align="Left">
@@ -64,10 +92,10 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 _A hands-on exploration of canary token internals — how they work, how to deploy them, and how to detect them._
 
 Features:
-- **Web Bug Tokens — Deploy headless HTTP triggers disguised as text documents using VBScript or compiled executables**
-- **Web Image Tokens — Embed tracking pixels in documents and HTML to detect unauthorized access**
-- **Redirect Tokens — Create tripwires that log clicks before forwarding to legitimate pages**
-- **SQL Dump Tokens — Plant canary tokens in database files to detect unauthorized imports**
+- Web Bug Tokens — Deploy headless HTTP triggers disguised as text documents using VBScript or compiled executables
+- Web Image Tokens — Embed tracking pixels in documents and HTML to detect unauthorized access
+- Redirect Tokens — Create tripwires that log clicks before forwarding to legitimate pages
+- SQL Dump Tokens — Plant canary tokens in database files to detect unauthorized imports
 
 
 ---
@@ -82,8 +110,8 @@ Features:
 _Learn how to convert an image into Base64 text and embed it directly into Markdown._
 
 Features:
-- **Single Image Encoding — Convert an image to a Base64 data URI for inline Markdown display**
-- **Folder Gallery Generator — Batch embed an folder of images into a clean Markdown gallery**
+- Single Image Encoding — Convert an image to a Base64 data URI for inline Markdown display
+- Folder Gallery Generator — Batch embed an folder of images into a clean Markdown gallery
 
 ---
 

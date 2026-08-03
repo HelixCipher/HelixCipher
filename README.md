@@ -87,13 +87,13 @@ Features:
 
 ---
 
-### [Project Jackheart](https://github.com/HelixCipher/project-jackheart/tree/main)
+### [Project ByteHide: Information Concealment & Format Manipulation](https://github.com/HelixCipher/project-bytehide)
 
 <p align="Left">
-  <img src="https://github.com/HelixCipher/project-jackheart/blob/main/project_image.png" width="800" alt="Project Jackheart"/>
+  <img src="https://github.com/HelixCipher/project-bytehide/blob/main/project_image.png" width="800" alt="Project ByteHide"/>
 </p>
 
-_Project Jackheart is an educational project demonstrating byte-level file techniques: hiding data in JPEGs, embedding images inside images, building polyglot files, and header-level codec-aware MP3 steganography (private-bit embedding + AES-GCM). The notebooks emphasize secure, local experimentation, reproducibility, and OPSEC._
+_Project ByteHide is an educational project demonstrating byte-level file techniques: hiding data in JPEGs, embedding images inside images, building polyglot files, and header-level codec-aware MP3 steganography (private-bit embedding + AES-GCM). The notebooks emphasize secure, local experimentation, reproducibility, and OPSEC._
 
  Features:  
 - How file formats are structured

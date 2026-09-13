@@ -60,7 +60,7 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
   <img src="https://github.com/HelixCipher/wifi-penetration-testing/blob/main/assets/images/project_image.png" width="800" alt="Wifi Penetration Testing"/>
 </p>
 
-_WiFi penetration testing guide with both hardware-based and hardware-free virtual lab environments. Includes Handshake capture and cracking, rogue AP detection techniques, and automated Python tool._
+_WiFi penetration testing guide with both hardware-based and hardware-free virtual lab environments. Includes handshake capture and cracking, rogue AP detection techniques, and automated Python tool._
 
 Features:
 - Dual lab environments - Hardware-based and hardware-free virtual setups in one guide

@@ -60,11 +60,11 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
   <img src="https://github.com/HelixCipher/wifi-penetration-testing/blob/main/assets/images/project_image.png" width="800" alt="Wifi Penetration Testing"/>
 </p>
 
-_WiFi penetration testing guide with both hardware-based and hardware-free virtual lab environments. Includes WPA2/WPA3 cracking, Evil Twin attacks, detection techniques, and automated Python tool._
+_An educational resource covering WiFi security attack vectors, detection methods, and defensive countermeasures._
 
 Features:
 - Dual lab environments - Hardware-based and hardware-free virtual setups in one guide
-- WPA2/WPA3 handshake capture and cracking - Deauth attack, handshake extraction, and offline cracking workflow
+- Handshake capture and cracking - Deauth attack, handshake extraction, and offline cracking workflow
 - Automated Python CLI tool (lab.py) - One-command lab setup, session save/restore, and cleanup
 
 ---

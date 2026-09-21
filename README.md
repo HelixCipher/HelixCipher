@@ -54,6 +54,22 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
+### [Cybersecurity Projects](https://github.com/HelixCipher/cybersecurity)
+
+<p align="Left">
+  <img src="https://github.com/HelixCipher/cybersecurity/blob/main/project_gif.gif" width="800" alt="project_gif"/>
+</p>
+
+_A curated collection of 12 cybersecurity projects spanning operational security, defense evasion, steganography, network security, system hardening, and hardware-based EDR evasion._
+
+Features:
+- MITRE ATT&CK defense evasion - 14 documented techniques with detection strategies and working tools
+- File-level steganography - JPEG/MP3 data hiding, polyglot files, and AES-256-GCM encrypted payloads
+- WiFi WPA2/WPA3 attack lab - Virtual and hardware-based pentesting with Aircrack-ng and Hashcat
+
+---
+
+
 ### [Wifi Penetration Testing](https://github.com/HelixCipher/wifi-penetration-testing)
 
 <p align="Left">

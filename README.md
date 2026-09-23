@@ -54,6 +54,23 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
+### [Spam Detection Using AI](https://github.com/HelixCipher/spam-detection-using-AI)
+
+Try it out &rarr; [![Here](https://img.shields.io/badge/Here%20-%20green?style=plastic
+)](https://spamdetectionusingai.streamlit.app/)
+<p align="Left">
+  <img src="https://github.com/HelixCipher/spam-detection-using-AI/blob/main/assets/images/demo.gif" width="800" alt="demo"/>
+</p>
+
+_SMS Spam Detection with Multinomial Naive Bayes — An end-to-end NLP pipeline classifying SMS messages using the UCI Spam Collection dataset, from raw text cleaning through a Streamlit demo with 98% held-out accuracy._
+
+Features:
+- Classic NLP preprocessing pipeline — URL, email, and digit normalization into url/email/num tokens, plus stopword removal and Porter stemming
+- End-to-end ML workflow — CountVectorizer + GridSearchCV hyperparameter tuning (α=0.5, bigrams) validated with 5-fold cross-validation, serialized with joblib
+- Interactive deployment — Streamlit app with in-browser inference, mirroring the notebook's preprocessing for train/serve parity
+
+---
+
 ### [Cybersecurity Projects](https://github.com/HelixCipher/cybersecurity)
 
 <p align="Left">

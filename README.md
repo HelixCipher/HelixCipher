@@ -54,21 +54,20 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
-### [Spam Detection Using AI](https://github.com/HelixCipher/spam-detection-using-AI)
+### [Malware Classifier](https://github.com/HelixCipher/malware-classifier)
 
-Try it out &rarr; [![Here](https://img.shields.io/badge/Here%20-%20green?style=plastic
-)](https://spamdetectionusingai.streamlit.app/)
+
 <p align="Left">
-  <img src="https://github.com/HelixCipher/spam-detection-using-AI/blob/main/assets/images/demo.gif" width="800" alt="demo"/>
+  <img src="https://github.com/HelixCipher/malware-classifier/blob/main/assets/images/project.gif" width="800" alt="project.gif"/>
 </p>
 
 
-_SMS Spam Detection with Multinomial Naive Bayes — An end-to-end NLP pipeline classifying SMS messages using the UCI Spam Collection dataset, from raw text cleaning through a Streamlit demo with 98% held-out accuracy._
+_Malware Classifier is an educational project demonstrating image-based malware family classification: classifying malware from pre-rendered grayscale byteplots, training a CNN from scratch, fine-tuning pretrained architectures (ResNet-50, ResNeXt-50, Inception-v3), and evaluating them._
 
 Features:
-- Classic NLP preprocessing pipeline — URL, email, and digit normalization into url/email/num tokens, plus stopword removal and Porter stemming
-- End-to-end ML workflow — CountVectorizer + GridSearchCV hyperparameter tuning (α=0.5, bigrams) validated with 5-fold cross-validation, serialized with joblib
-- Interactive deployment — Streamlit app with in-browser inference, mirroring the notebook's preprocessing for train/serve parity
+- 25 malware families - 9,339 pre-rendered grayscale byteplot images.
+- How malware can be represented as images — what byteplot layout and texture encode.
+- How convolutional networks learn family-specific structure from byte sequences.
 
 ---
 
@@ -81,74 +80,9 @@ Features:
 _A curated collection of 12 cybersecurity projects spanning operational security, defense evasion, steganography, network security, system hardening, and hardware-based EDR evasion._
 
 Features:
-- MITRE ATT&CK defense evasion - 14 documented techniques with detection strategies and working tools
-- File-level steganography - JPEG/MP3 data hiding, polyglot files, and AES-256-GCM encrypted payloads
-- WiFi WPA2/WPA3 attack lab - Virtual and hardware-based pentesting with Aircrack-ng and Hashcat
-
----
-
-
-### [Wifi Penetration Testing](https://github.com/HelixCipher/wifi-penetration-testing)
-
-<p align="Left">
-  <img src="https://github.com/HelixCipher/wifi-penetration-testing/blob/main/assets/images/project_image.png" width="800" alt="Wifi Penetration Testing"/>
-</p>
-
-_WiFi penetration testing guide with hardware-based and hardware-free setups. Includes handshake capture and cracking, rogue AP detection techniques, and automated Python tool._
-
-Features:
-- Dual lab environments - Hardware-based and hardware-free virtual setups in one guide
-- Handshake capture and cracking - Deauth attack, handshake extraction, and offline cracking workflow
-- Automated Python CLI tool (lab.py) - One-command lab setup, session save/restore, and cleanup
-
----
-
-### [Fine-Tuning An Local LLM for Web Scraping](https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping)
-
-<p align="Left">
-  <img src="https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping/blob/main/project_image.png" width="800" alt="Fine-Tuning An Local LLM for Web Scraping"/>
-</p>
-
-_A guide to building a custom web scraping AI assistant by fine-tuning Qwen2.5-3B to extract structured JSON data from job postings._
-
-Features:
-- LoRA fine-tuning with Unsloth - Efficient 4-bit training on consumer GPU
-- End-to-end pipeline - From web scraping to HuggingFace deployment
-- Selenium & Playwright integration - Automated data collection
-
-
----
-
-### [Digiti Signum](https://github.com/HelixCipher/digiti-signum)
-
-<p align="Left">
-  <img src="https://raw.githubusercontent.com/HelixCipher/digiti-signum/main/project_image.png" width="800" alt="Digiti Signum"/>
-</p>
-
-_An scientific research project demonstrating fingerprint matching and alteration detection using both traditional computer vision and deep learning approaches. This project explores how biometric systems work behind the scenes to match fingerprints and detect alterations._
-
-Features:
-- SIFT feature extraction - Identifying distinctive points in fingerprint images
-- Custom 5-layer CNN - Training a CNN from scratch for fingerprint classification
-- Transfer Learning with ResNet18 - Leveraging pre-trained ImageNet features
-
-  ### Note Prohibited Practices: This project strictly prohibits and does not implement features for social scoring, biometric identification in public spaces, or untargeted scraping of facial images.
-
----
-
-### [Project ByteHide: Information Concealment & Format Manipulation](https://github.com/HelixCipher/project-bytehide)
-
-<p align="Left">
-  <img src="https://github.com/HelixCipher/project-bytehide/blob/main/project_image.png" width="800" alt="Project ByteHide"/>
-</p>
-
-_Project ByteHide is an educational project demonstrating byte-level file techniques: hiding data in JPEGs, embedding images inside images, building polyglot files, and header-level codec-aware MP3 steganography (private-bit embedding + AES-GCM). The notebooks emphasize secure, local experimentation, reproducibility, and OPSEC._
-
- Features:  
-- How file formats are structured
-- How parsers interpret binary data
-- How steganography differs from polyglots
-- Why “file extensions” do not define file behavior
+- MITRE ATT&CK defense evasion - 14 documented techniques with detection strategies and working tools.
+- File-level steganography - JPEG/MP3 data hiding, polyglot files, and AES-256-GCM encrypted payloads.
+- WiFi WPA2/WPA3 attack lab - Virtual and hardware-based pentesting with Aircrack-ng and Hashcat.
 
 ---
 

@@ -54,15 +54,15 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
-### [Malware Classifier](https://github.com/HelixCipher/malware-classifier)
+### [Malware Classification](https://github.com/HelixCipher/malware-classification)
 
 
 <p align="Left">
-  <img src="https://github.com/HelixCipher/malware-classifier/blob/main/assets/images/project.gif" width="800" alt="project.gif"/>
+  <img src="https://github.com/HelixCipher/malware-classification/blob/main/assets/images/project.gif" width="800" alt="project.gif"/>
 </p>
 
 
-_Malware Classifier is an educational project demonstrating image-based malware family classification: classifying malware from pre-rendered grayscale byteplots, training a CNN from scratch, fine-tuning pretrained architectures (ResNet-50, ResNeXt-50, Inception-v3), and evaluating them._
+_Educational project demonstrating image-based malware family classification: classifying malware from pre-rendered grayscale byteplots, training a CNN from scratch, fine-tuning pretrained architectures (ResNet-50, ResNeXt-50, Inception-v3), and evaluating them._
 
 Features:
 - 25 malware families - 9,339 pre-rendered grayscale byteplot images.

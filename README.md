@@ -130,20 +130,17 @@ _A curated collection of 12 cybersecurity projects spanning operational security
 </details>
 
 <details>
-<summary><strong>Other (12)</strong></summary>
+<summary><strong>Other (9)</strong></summary>
 
 | Repository | Description | Language |
 |---|---|---|
 | [clone-sweeper](https://github.com/HelixCipher/clone-sweeper) | Automated GitHub repository analytics collecting clone traffic data | TypeScript |
 | [pages](https://github.com/HelixCipher/pages) | Blog and portfolio site with terminal-inspired design and auto-fetched GitHub projects | TypeScript |
 | [todays-command](https://github.com/HelixCipher/todays-command) | Linux desktop widget delivering a daily command with quizzes and streak tracking | TypeScript |
-| [myjam](https://github.com/HelixCipher/myjam) | Audio converter built on ffmpeg with CLI and web GUI interfaces | TypeScript |
 | [podcast-retriever](https://github.com/HelixCipher/podcast-retriever) | Aggregates podcast data from iTunes Search API, RSS feeds, and Podchaser | Python |
 | [dynamic-webscraper](https://github.com/HelixCipher/dynamic-webscraper) | Extracts and structures data from any website without hardcoded parameters | Python |
-| [media-compressor](https://github.com/HelixCipher/media-compressor) | Compresses images and videos to target file sizes — Flask, Tailwind, Docker | HTML |
 | [Atlas](https://github.com/HelixCipher/Atlas) | Web-scraping toolkit for Swedish authorities: pagination, PDF crawling, metadata extraction | Python |
 | [gif-maker](https://github.com/HelixCipher/gif-maker) | Web tool generating GIFs from images or video — React and Vite frontend, Flask backend | JavaScript |
-| [ai-job-finder](https://github.com/HelixCipher/ai-job-finder) | Multi-agent system automating job search and career guidance with CrewAI and LLMs | Python |
 | [ai-agent](https://github.com/HelixCipher/ai-agent) | AI agent system combining LLMs with custom tools and memory retention | Python |
 | [api-forge](https://github.com/HelixCipher/api-forge) | AI-powered OpenAPI specification generator | TypeScript |
 

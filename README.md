@@ -54,7 +54,7 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
-[Machine Learning](https://github.com/HelixCipher/machine-learning) (11) | [Cybersecurity](https://github.com/HelixCipher/cybersecurity) (12) | Other (12)
+[Machine Learning](https://github.com/HelixCipher/machine-learning) (11) | [Cybersecurity](https://github.com/HelixCipher/cybersecurity) (12) | Other (8)
 
 <!-- ============================= -->
 <!--            LATEST             -->
@@ -62,6 +62,20 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 <details>
 <summary><strong>Latest</strong></summary>
+
+### [Malware Detection](https://github.com/HelixCipher/malware-detection)
+
+<p align="Left">
+  <img src="https://github.com/HelixCipher/malware-detection/blob/main/assets/images/project.gif" width="800" alt="project.gif"/>
+</p>
+
+Features:
+- 5,000 benign Windows PEs (41,520 tiles) for training, versus 481 theZoo malware samples spanning 151 families (4,717 tiles) for evaluation, converted by one pipeline so the representations match by construction.
+- Two complementary scorers: a convolutional autoencoder trained from scratch on reconstruction error (ROC-AUC 0.7048), and a frozen DINOv2 ViT-B/14 encoder with shrinkage-estimated Mahalanobis scoring (ROC-AUC 0.7995).
+- A documented live demonstration: one sample rebuilt from its tiles and executed in an offline Windows VM.
+
+
+---
 
 ### [Malware Classification](https://github.com/HelixCipher/malware-classification)
 

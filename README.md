@@ -54,7 +54,7 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
-[Machine Learning](https://github.com/HelixCipher/machine-learning) (11) | [Cybersecurity](https://github.com/HelixCipher/cybersecurity) (12) | Other (8)
+[Machine Learning](https://github.com/HelixCipher/machine-learning) (12) | [Cybersecurity](https://github.com/HelixCipher/cybersecurity) (12) | Other (8)
 
 <!-- ============================= -->
 <!--            LATEST             -->
@@ -95,7 +95,7 @@ Features:
 </details>
 
 <details>
-<summary><strong>Machine Learning (11)</strong></summary>
+<summary><strong>Machine Learning (12)</strong></summary>
 
 <p align="Left">
   <img src="https://github.com/HelixCipher/machine-learning/blob/main/project_image.png" width="800" alt="project_image"/>
@@ -105,17 +105,18 @@ A curated collection of machine learning projects covering various domains inclu
 
 | Repository | Description | Language |
 |---|---|---|
-| [malware-classification](https://github.com/HelixCipher/malware-classification) | Image-based malware family classification from byteplots with CNN from scratch and transfer learning | Jupyter Notebook |
-| [spam-detection-using-AI](https://github.com/HelixCipher/spam-detection-using-AI) | End-to-end SMS spam classification with scikit-learn and a Streamlit web app | Jupyter Notebook |
+| [digit-recognition](https://github.com/HelixCipher/digit-recognition) | Streamlit app recognizing handwritten digits 0-9 with a CNN trained on MNIST | Python |
+| [digiti-signum](https://github.com/HelixCipher/digiti-signum) | Classical and forensic fingerprint matching techniques on the SOCOFing dataset | Jupyter Notebook |
+| [Understanding-Data-Augmentation](https://github.com/HelixCipher/Understanding-Data-Augmentation) | Measures the impact of data augmentation on ResNet18 training on CIFAR-10 | Jupyter Notebook |
 | [E-commerce-Conversion-Prediction](https://github.com/HelixCipher/E-commerce-Conversion-Prediction) | Predicts whether an e-commerce visitor session will result in a purchase | Jupyter Notebook |
-| [Convolutional-Neural-Networks-CNNs-from-scratch](https://github.com/HelixCipher/Convolutional-Neural-Networks-CNNs-from-scratch) | CNNs from scratch inspired by EfficientNet and Inception, trained on CIFAR-10 | Jupyter Notebook |
 | [CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES](https://github.com/HelixCipher/CAN-T-SEE-THE-FOREST-FOR-ALL-THE-TREES) | Univariate analysis with predictive modeling using decision trees and random forests | Jupyter Notebook |
+| [data-processing](https://github.com/HelixCipher/data-processing) | Chicago crime data 2008-2012 analyzed against census data for socioeconomic correlations | Jupyter Notebook |
+| [Convolutional-Neural-Networks-CNNs-from-scratch](https://github.com/HelixCipher/Convolutional-Neural-Networks-CNNs-from-scratch) | CNNs from scratch inspired by EfficientNet and Inception, trained on CIFAR-10 | Jupyter Notebook |
 | [fine-tuning-an-local-llm-for-web-scraping](https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping) | Fine-tunes Qwen2.5-3B to extract structured JSON data from job postings | Jupyter Notebook |
 | [digit-classifier-api](https://github.com/HelixCipher/digit-classifier-api) | MNIST classifier served through a FastAPI REST API — train, deploy, consume | Jupyter Notebook |
-| [digiti-signum](https://github.com/HelixCipher/digiti-signum) | Classical and forensic fingerprint matching techniques on the SOCOFing dataset | Jupyter Notebook |
-| [digit-recognition](https://github.com/HelixCipher/digit-recognition) | Streamlit app recognizing handwritten digits 0-9 with a CNN trained on MNIST | Python |
-| [Understanding-Data-Augmentation](https://github.com/HelixCipher/Understanding-Data-Augmentation) | Measures the impact of data augmentation on ResNet18 training on CIFAR-10 | Jupyter Notebook |
-| [data-processing](https://github.com/HelixCipher/data-processing) | Chicago crime data 2008-2012 analyzed against census data for socioeconomic correlations | Jupyter Notebook |
+| [spam-detection-using-AI](https://github.com/HelixCipher/spam-detection-using-AI) | End-to-end SMS spam classification with scikit-learn and a Streamlit web app | Jupyter Notebook |
+| [malware-classification](https://github.com/HelixCipher/malware-classification) | Image-based malware family classification from byteplots with CNN from scratch and transfer learning | Jupyter Notebook |
+| [malware-detection](https://github.com/HelixCipher/malware-detection) | Unsupervised malware detection from reversible byteplot tiles with a benign-only autoencoder and frozen DINOv2 Mahalanobis scoring | Jupyter Notebook |
 
 </details>
 

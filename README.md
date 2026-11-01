@@ -115,7 +115,7 @@ A curated collection of machine learning projects covering various domains inclu
 | [fine-tuning-an-local-llm-for-web-scraping](https://github.com/HelixCipher/fine-tuning-an-local-llm-for-web-scraping) | Fine-tunes Qwen2.5-3B to extract structured JSON data from job postings | Jupyter Notebook |
 | [digit-classifier-api](https://github.com/HelixCipher/digit-classifier-api) | MNIST classifier served through a FastAPI REST API — train, deploy, consume | Jupyter Notebook |
 | [spam-detection-using-AI](https://github.com/HelixCipher/spam-detection-using-AI) | End-to-end SMS spam classification with scikit-learn and a Streamlit web app | Jupyter Notebook |
-| [malware-classification](https://github.com/HelixCipher/malware-classification) | Image-based malware family classification from byteplots with CNN from scratch and transfer learning | Jupyter Notebook |
+| [malware-classification](https://github.com/HelixCipher/malware-classification) | Malware family classification from byteplot images using a custom CNN and transfer learning | Jupyter Notebook |
 | [malware-detection](https://github.com/HelixCipher/malware-detection) | Unsupervised malware detection from reversible byteplot tiles with a benign-only autoencoder and frozen DINOv2 Mahalanobis scoring | Jupyter Notebook |
 
 </details>

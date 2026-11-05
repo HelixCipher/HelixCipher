@@ -153,7 +153,6 @@ _A curated collection of 12 cybersecurity projects spanning operational security
 |---|---|---|
 | [clone-sweeper](https://github.com/HelixCipher/clone-sweeper) | Automated GitHub repository analytics collecting clone traffic data | TypeScript |
 | [pages](https://github.com/HelixCipher/pages) | Blog and portfolio site with terminal-inspired design and auto-fetched GitHub projects | TypeScript |
-| [todays-command](https://github.com/HelixCipher/todays-command) | Linux desktop widget delivering a daily command with quizzes and streak tracking | TypeScript |
 | [podcast-retriever](https://github.com/HelixCipher/podcast-retriever) | Aggregates podcast data from iTunes Search API, RSS feeds, and Podchaser | Python |
 | [dynamic-webscraper](https://github.com/HelixCipher/dynamic-webscraper) | Extracts and structures data from any website without hardcoded parameters | Python |
 | [Atlas](https://github.com/HelixCipher/Atlas) | Web-scraping toolkit for Swedish authorities: pagination, PDF crawling, metadata extraction | Python |

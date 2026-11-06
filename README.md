@@ -54,7 +54,7 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
-[Machine Learning](https://github.com/HelixCipher/machine-learning) (12) | [Cybersecurity](https://github.com/HelixCipher/cybersecurity) (12) | Other (7)
+[Machine Learning](https://github.com/HelixCipher/machine-learning) (12) | [Cybersecurity](https://github.com/HelixCipher/cybersecurity) (12) | Other (6)
 
 <!-- ============================= -->
 <!--            LATEST             -->
@@ -147,7 +147,7 @@ _A curated collection of 12 cybersecurity projects spanning operational security
 </details>
 
 <details>
-<summary><strong>Other (7)</strong></summary>
+<summary><strong>Other (6)</strong></summary>
 
 | Repository | Description | Language |
 |---|---|---|

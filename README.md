@@ -54,7 +54,7 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
-[Machine Learning](https://github.com/HelixCipher/machine-learning) (12) | [Cybersecurity](https://github.com/HelixCipher/cybersecurity) (12) | Other (6)
+[Machine Learning](https://github.com/HelixCipher/machine-learning) (12) | [Cybersecurity](https://github.com/HelixCipher/cybersecurity) (12) | Other (5)
 
 <!-- ============================= -->
 <!--            LATEST             -->
@@ -147,7 +147,7 @@ _A curated collection of 12 cybersecurity projects spanning operational security
 </details>
 
 <details>
-<summary><strong>Other (6)</strong></summary>
+<summary><strong>Other (5)</strong></summary>
 
 | Repository | Description | Language |
 |---|---|---|
@@ -156,7 +156,6 @@ _A curated collection of 12 cybersecurity projects spanning operational security
 | [podcast-retriever](https://github.com/HelixCipher/podcast-retriever) | Aggregates podcast data from iTunes Search API, RSS feeds, and Podchaser | Python |
 | [dynamic-webscraper](https://github.com/HelixCipher/dynamic-webscraper) | Extracts and structures data from any website without hardcoded parameters | Python |
 | [Atlas](https://github.com/HelixCipher/Atlas) | Web-scraping toolkit for Swedish authorities: pagination, PDF crawling, metadata extraction | Python |
-| [api-forge](https://github.com/HelixCipher/api-forge) | AI-powered OpenAPI specification generator | TypeScript |
 
 </details>
 

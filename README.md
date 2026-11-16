@@ -54,7 +54,7 @@ A core part of my work is **failure-mode thinking**: understanding how AI system
 
 ## My Projects
 
-[Machine Learning](https://github.com/HelixCipher/machine-learning) (12) | [Cybersecurity](https://github.com/HelixCipher/cybersecurity) (12) | Other (4)
+[Machine Learning](https://github.com/HelixCipher/machine-learning) (12) | [Cybersecurity](https://github.com/HelixCipher/cybersecurity) (7) | Other (4)
 
 <!-- ============================= -->
 <!--            LATEST             -->
@@ -121,28 +121,23 @@ A curated collection of machine learning projects covering various domains inclu
 </details>
 
 <details>
-<summary><strong>Cybersecurity (12)</strong></summary>
+<summary><strong>Cybersecurity (7)</strong></summary>
 
 <p align="Left">
   <img src="https://github.com/HelixCipher/cybersecurity/blob/main/project_gif.gif" width="800" alt="project_gif"/>
 </p>
 
-_A curated collection of 12 cybersecurity projects spanning operational security, defense evasion, steganography, network security, system hardening, and hardware-based EDR evasion._
+_A curated collection of 7 cybersecurity projects spanning operational security, defense evasion, steganography, network security and hardware-based EDR evasion._
 
 | Repository | Description | Language |
 |---|---|---|
-| [project-horseshoe](https://github.com/HelixCipher/project-horseshoe) | Subnet scanner for local network discovery and TCP port enumeration | Python |
 | [wifi-penetration-testing](https://github.com/HelixCipher/wifi-penetration-testing) | WiFi pentest guide: handshake capture, cracking, rogue AP detection, automated Python tool | Python |
 | [defense-evasion](https://github.com/HelixCipher/defense-evasion) | MITRE ATT&CK defense evasion reference with filesystem manipulation and detection strategies | Python |
 | [project-bytehide](https://github.com/HelixCipher/project-bytehide) | Byte-level file techniques: JPEG data hiding, polyglot files, codec-aware MP3 embedding | Jupyter Notebook |
-| [canary-tokens](https://github.com/HelixCipher/canary-tokens) | Canary token internals: how they work, how to deploy them, how to detect them | Shell |
-| [Amnesiac-Shell](https://github.com/HelixCipher/Amnesiac-Shell) | On-demand private shells with automatic session history erasure for OpSec | Shell |
-| [Changeling](https://github.com/HelixCipher/Changeling) | MAC address randomization via NetworkManager to reduce WiFi and Ethernet tracking | Shell |
-| [Ikigai](https://github.com/HelixCipher/Ikigai) | Cross-distro Linux hardening utility | Shell |
+| [canary-tokens](https://github.com/HelixCipher/canary-tokens) | Canary token internals: how they work, how to deploy them and how to detect them | Shell |
 | [one-persons-feature-is-another-persons-exploit](https://github.com/HelixCipher/one-persons-feature-is-another-persons-exploit) | Image metadata leakage risks for OPSEC and how to inspect and remove metadata | Jupyter Notebook |
 | [playwright-pixelscan](https://github.com/HelixCipher/playwright-pixelscan) | Inspects what websites can collect from a web browser using Playwright mobile emulation | Python |
 | [mouse-jiggler](https://github.com/HelixCipher/mouse-jiggler) | Cross-platform Bezier curve hardware mouse jiggler on RP2350-One spoofing a USB mouse | Python |
-| [image-to-code](https://github.com/HelixCipher/image-to-code) | Embeds images into Markdown as Base64 — self-contained, no external hosting | Python |
 
 </details>
 

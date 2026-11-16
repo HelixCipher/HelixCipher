@@ -94,6 +94,10 @@ Features:
 
 </details>
 
+<!-- ============================= -->
+<!--        Machine Learning       -->
+<!-- ============================= -->
+
 <details>
 <summary><strong>Machine Learning (12)</strong></summary>
 
@@ -120,6 +124,10 @@ A curated collection of machine learning projects covering various domains inclu
 
 </details>
 
+<!-- ============================= -->
+<!--        Cybersecurity          -->
+<!-- ============================= -->
+
 <details>
 <summary><strong>Cybersecurity (7)</strong></summary>
 
@@ -141,6 +149,10 @@ _A curated collection of 7 cybersecurity projects spanning operational security,
 
 </details>
 
+<!-- ============================= -->
+<!--            Other              -->
+<!-- ============================= -->
+
 <details>
 <summary><strong>Other (4)</strong></summary>
 
@@ -148,7 +160,7 @@ _A curated collection of 7 cybersecurity projects spanning operational security,
 |---|---|---|
 | [clone-sweeper](https://github.com/HelixCipher/clone-sweeper) | Automated GitHub repository analytics collecting clone traffic data | TypeScript |
 | [pages](https://github.com/HelixCipher/pages) | Blog and portfolio site with terminal-inspired design and auto-fetched GitHub projects | TypeScript |
-| [podcast-retriever](https://github.com/HelixCipher/podcast-retriever) | Aggregates podcast data from iTunes Search API, RSS feeds, and Podchaser | Python |
+| [podcast-retriever](https://github.com/HelixCipher/podcast-retriever) | Aggregates podcast data from iTunes Search API, RSS feeds and Podchaser | Python |
 | [Atlas](https://github.com/HelixCipher/Atlas) | Web-scraping toolkit for Swedish authorities: pagination, PDF crawling, metadata extraction | Python |
 
 </details>
